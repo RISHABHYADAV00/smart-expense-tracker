@@ -6,7 +6,6 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-1.32%2B-red?logo=streamlit)
 ![Pandas](https://img.shields.io/badge/Pandas-2.1%2B-lightblue?logo=pandas)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-3.8%2B-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
