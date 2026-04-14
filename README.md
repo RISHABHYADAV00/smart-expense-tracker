@@ -74,8 +74,7 @@ smart_expense_analyzer/
 ### Step 1 — Clone or Download the Project
 
 ```bash
-git clone https://github.com/your-username/smart-expense-analyzer.git
-cd smart-expense-analyzer
+https://github.com/RISHABHYADAV00/smart-expense-tracker
 ```
 
 Or simply download and unzip the project folder.
@@ -136,36 +135,6 @@ Supported categories with built-in suggestions:
 
 ---
 
-## 📸 Screenshots
-
-> _Replace the placeholders below with actual screenshots after running the app._
-
-### Home / Upload Screen
-```
-[ Screenshot: Upload screen with sidebar and file uploader ]
-```
-
-### Summary Metrics
-```
-[ Screenshot: 4 KPI metric cards — Total, Transactions, Average, Date Range ]
-```
-
-### Pie Chart
-```
-[ Screenshot: Donut-style pie chart showing category percentages ]
-```
-
-### Bar Chart
-```
-[ Screenshot: Horizontal bar chart with color-coded categories ]
-```
-
-### Smart Suggestions
-```
-[ Screenshot: Insight boxes with saving tips and overspend alerts ]
-```
-
----
 
 ## 🧠 How It Works (Logic Overview)
 
@@ -212,16 +181,10 @@ Display everything in Streamlit UI
 
 ## 👤 Author
 
-**Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
-- Email: your.email@example.com
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License** — feel free to use, modify, and distribute it.
+**RISHABH YADAV**
+- GitHub: https://github.com/RISHABHYADAV00
+- LinkedIn: https://www.linkedin.com/in/rishabh-yadav-8854a6313/
+- Email: rky951060@gmail.com
 
 ---
 
